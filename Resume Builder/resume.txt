@@ -1,0 +1,27 @@
+     ********** Personal Information **********     
+Fullname: Aslam
+Surname: Khan
+Address: NHCE
+Bengaluru
+
+ Pincode: 560049
+Nationality: India
+DOB: 05-08-2002
+Phone No.: 9380138905
+Email: Aslamasgarkhan@gmail.com
+     ********** Skills **********     
+Category: Java
+Descriptionbackend
+Category: 
+Description
+Category: 
+Description: 
+     ********** Qualifications **********     
+College/University: wj
+School: 
+Other: 
+     ********** Work Experience **********     
+Company: NHCE
+Designation: student
+Company: 
+Designation: 
